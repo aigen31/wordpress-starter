@@ -15,5 +15,6 @@ Thumbs.db
 .sass-cache/
 
 # Wordpress
+app
 wp-content/*
 !wp-content/themes
